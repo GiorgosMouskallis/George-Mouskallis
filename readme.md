@@ -1,5 +1,4 @@
-# Code for CTEC3905 02 lab
-
+# 02-lab code
 This is the simplest solution to the exercise set in the second lab.
 
 If you uncomment the CSS between lines 42 and 53, this will:
